@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+langchain
+pydantic
+python-dotenv
+sqlite3
+requests
